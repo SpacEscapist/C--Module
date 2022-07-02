@@ -5,7 +5,7 @@ This program provides the user with a working Vehicle Rental app. It allows the 
 This program was created to showcase my learning/understanding of the C++ language basics - using variables, expressions, conditionals, loops, functions, classes and a data structure from STL (using map). This program was also created to showcase my ability to learn a new language within a short period of time (within 1-2 weeks).
 {Describe your purpose for writing this software.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Gk2QgaFsStA)
 
 # Development Environment
 
